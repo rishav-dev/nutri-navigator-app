@@ -49,3 +49,4 @@ android/app/.cxx
 
 # Local environment configuration
 env.json
+android/build/
